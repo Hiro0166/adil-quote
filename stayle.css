@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    padding-top: 150px;
+}
+
+div {
+    background-color: white;
+    width: 400px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+#quoteID {
+    font-size: 20px;
+    color: #333;
+}
+
+#authorID {
+    color: gray;
+}
+
+button {
+    background-color: #edf504;
+    color: rgb(1, 1, 1);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #c8fb6f;
+}
